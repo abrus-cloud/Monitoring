@@ -6,6 +6,6 @@ receivers:
     email_configs:
       - to: 'yashar.ansari76@gmail.com'
         from: 'alert@abrus.org'
-        smarthost: 'mail.abrus.org:465'
-        auth_username: 'alert@abrus.org'
-        auth_password: 'iJ8_dH9_yV6_mJ5_'
+        smarthost: 'mail.example.com:465'
+        auth_username: 'alert@example.com'
+        auth_password: 'password'
